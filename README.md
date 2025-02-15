@@ -15,7 +15,7 @@
 **macOS Version:** Ventura 13.7.4\
 **OpenCore Version:** 1.0.3
 
-## Features & Working Components ✅
+## Working ✅
 
 - Almost everything
 
