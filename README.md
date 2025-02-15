@@ -1,5 +1,8 @@
 # Hackintosh EFI for AMD Ryzen 3200G Vega 8
 
+## Screenshot
+![System Screenshot](./screenshot.jpeg)
+
 ## System Configuration
 
 **CPU:** AMD Ryzen 3 3200G\
