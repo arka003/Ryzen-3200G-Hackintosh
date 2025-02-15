@@ -27,7 +27,7 @@
 ## Installation Instructions 📖
 
 1. Copy the `EFI` folder to your EFI partition.
-2. Make necessary SMBIOS modifications using **ProperTree**.
+2. Make necessary SMBIOS modifications using **ProperTree** & **GenSMBIOS**.
 3. Disable **Secure Boot**, **Above 4G Decoding** and **Reisze BAR Support** in BIOS.
 4. Use `iMac20,1` as SMBIOS for best compatibility.
 5. Set UMA Framebuffer size to 3G in BIOS.
