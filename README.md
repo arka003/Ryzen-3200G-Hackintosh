@@ -1,5 +1,7 @@
 # Hackintosh EFI for AMD Ryzen 3200G Vega 8
 
+##UPDATE: Use the latest NootedRed kext from ChefKissInc and replace CpuTscSync with ForgedInvariant
+
 ## Screenshot
 ![System Screenshot](./screenshot.jpeg)
 
